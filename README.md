@@ -6,19 +6,18 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This project provides a basic understanding of risk analytics banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
-- Whenever a compny receives a loan application, the company has to make a decision for loan  approval based on the applicant’s profile (likely to repay the loan / not likely to repay the loan).
+- This project provides a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+- Whenever a company receives a loan application, the company has to make a decision for loan  approval based on the applicant’s profile (likely to repay the loan / not likely to repay the loan).
     
-    If the applicant is likely to repay the loan, then not approving the loan results in a  loss of business to the company
+    - If the applicant is likely to repay the loan, then not approving the loan results in a  loss of business to the company
 
-    If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+    - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 - The business problem that this project solves is to understand how consumer attributes and loan attributes influence the tendency of default.
-In order to do so, we will try to identify and understand patterns from past data that indicates if a person is likely to default, which may be used to take appropriate action (in this case denying the loan, allwoing the loan at a higher rate of interest, limiting the maximum loan amount , etc.) 
+- In order to do so, we will try to identify and understand patterns from past data that indicates if a person is likely to default, which may then be used to take appropriate action (in this case denying the loan, allowing the loan at a higher rate of interest, limiting the maximum loan amount , etc.). 
 - The data set used for this project is the "Loan" data set.
 ![alt text](https://cdn.upgrad.com/UpGrad/temp/7afbce98-8ecc-41c6-96d8-981cba7d343f/Loan_image.png)
 
