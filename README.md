@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Conclusion](#conclusion)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -23,9 +23,9 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-As per the analysis, the cases of defualt are asd follows
-- Applicants for the purpose of 'Home Improvement'
+## Conclusion
+As per the analysis, the cases of defaulters were observed when
+- Applicants applying loans for the purpose of 'Home Improvement'
 - Applicants where grade is 'G' and interest is above 20%
 - Applicants who have their home 'mortgaged'
 - Other relevant observations and analysis are documented in the notebook.
