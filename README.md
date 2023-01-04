@@ -11,7 +11,7 @@
 
 ## General Information
 - This project provides a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
-- Whenever a company receives a loan application, the company has to make a decision for loan  approval based on the applicant’s profile (likely to repay the loan / not likely to repay the loan).
+- The case study is for a consumer finance company which specialises in lending various types of loans to urban customers. Whenever a company receives a loan application, the company has to make a decision for loan  approval based on the applicant’s profile (likely to repay the loan / not likely to repay the loan).
     
     - If the applicant is likely to repay the loan, then not approving the loan results in a  loss of business to the company
 
